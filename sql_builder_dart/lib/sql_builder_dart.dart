@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library sql_builder_dart;
 
-export 'src/sql_builder_dart_base.dart';
+export 'src/sql_builder_dart_impl.dart';
 
 // TODO: Export any libraries intended for clients of this package.
